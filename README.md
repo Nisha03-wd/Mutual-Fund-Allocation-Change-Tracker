@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mutual-Fund-Allocation-Change-Tracker
 =======
 # 📊 Mutual Fund Allocation Change Tracker
@@ -154,4 +154,3 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 ---
 Made with ❤️ by Nisha Kumari Singh
->>>>>>> abfa6c16 (commit)
